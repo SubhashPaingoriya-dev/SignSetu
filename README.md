@@ -11,7 +11,7 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-00897B?style=flat-square&logo=google&logoColor=white)](https://mediapipe.dev)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+
 
 <br/>
 
